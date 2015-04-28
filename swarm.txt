@@ -1,0 +1,4 @@
+ftp://socket:programming@192.168.0.2/cook.pdf
+ftp://176b:176b@192.168.0.5/cook.pdf
+ftp://socket:programming@192.168.0.2/cook.pdf
+ftp://176b:176b@192.168.0.5/pub/cook.pdf

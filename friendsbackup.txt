@@ -1,0 +1,11 @@
+Vicki Krishnan 07231983
+3 circles
+family
+highschool
+colleagues
+5 friends
+Jane Zhang 03031983 highschool
+John Hernandez 07011975 colleagues
+Wenyue Smith 08251983 highschool colleagues
+Jose Wassal 01012001 colleagues
+Kasturi Hansen 10051950 family
